@@ -44,11 +44,11 @@ look into the [jupyter notebook](https://github.com/Ritsch1/Bulldozer-Prizing-Li
 
 * This histogram plot shows shows the distribution of the Sale - Year variable.
 
-<img src="plots/Distribution_SaleYear.png" height="600" width="1500">
+<img src="plots/Distribution_SaleYear.png" height="600" width="1800">
 
 * This histogram plot shows the distribution of the Manufacturing - Year variable.
 
-<img src="plots/Distribution_YearMade.png" height="600" width="1500">
+<img src="plots/Distribution_YearMade.png" height="600" width="1800">
 
 ## Work with the project
 
